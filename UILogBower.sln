@@ -3,12 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UILog", "UILog", "{0B40BB49-B360-443D-AD58-F85AA8DD1B5C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E311A332-C8EE-489D-A8C1-4C8B4918692A}"
 	ProjectSection(SolutionItems) = preProject
-		..\AngularUILog\bower.json = ..\AngularUILog\bower.json
-		..\AngularUILog\jsnlogExt.js = ..\AngularUILog\jsnlogExt.js
-		..\AngularUILog\uiLogging.js = ..\AngularUILog\uiLogging.js
-		..\AngularUILog\uiLoggingConfig.js = ..\AngularUILog\uiLoggingConfig.js
+		bower.json = bower.json
+		jsnlogExt.js = jsnlogExt.js
+		uiLogging.js = uiLogging.js
+		uiLoggingConfig.js = uiLoggingConfig.js
 	EndProjectSection
 EndProject
 Global
